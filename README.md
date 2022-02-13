@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Nima Hasanzade
+- 👀 I’m SEO Expert
+- 🌱 I’m interested in and currently learning Python & JS
+- 💞️
+- 📫 How to reach me >>> https://graymind.me/about
